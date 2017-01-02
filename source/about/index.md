@@ -5,7 +5,6 @@ date: 2016-12-31 23:41:02
 
 Good Good Study, Day Day Up!
 
-
 ## 坚信
 
 * 熟能生巧
@@ -15,7 +14,7 @@ Good Good Study, Day Day Up!
 ## 联系
 
 * GitHub：[@hongshanzhu](https://github.com/hongshanzhu)
-* 博客：[{{ site.title }}]({{ site.url }})
+* 博客：[@hongshanzhu](http://zhuhongshan.xyz)
 * 微博: [@hongshanzhu](http://weibo.com/zhuhongshan)
 * 知乎: [@hongshanzhu](http://www.zhihu.com/people/zhuhongshan)
 
@@ -23,9 +22,7 @@ Good Good Study, Day Day Up!
 
 #### Software Engineer Keywords
    JavaScript, C/C++, Node.js, Design Patterns
-
 #### Networks Developer Keywords
-
-   Linux, DataBase
+   TCP/IP, 3GPP
 #### Linux Developer Keywords
-   TCP/IP,3GPP
+   Linux, DataBase
